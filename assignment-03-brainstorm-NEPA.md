@@ -9,7 +9,7 @@ As I learned more about this issue, I started to see that the problem is bigger 
 
 ### Recorded Conversation: 
 
-#### Written synthesis/summary: 
+#### Written synthesis/summary of the recording: 
 
 Our discussion focused on why it can be so difficult to build infrastructure in the U.S. and whether the problem is mainly regulations, lawsuits, or the institutions themselves. 
 Howard argues that too much red tape makes people focus on following procedures instead of using their judgment and being responsible for outcomes. I agree with the idea that decision-makers should have more responsibility, but I don't think that means getting rid of environmental protections or accountability
