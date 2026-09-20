@@ -6,8 +6,8 @@ Building infrastructure in the United States can take years, even when there is 
 
 As I learned more about this issue, I started to see that the problem is bigger than just having “too many regulations.” It also involves how government agencies make decisions, how courts and lawsuits affect projects, and how much responsibility decision-makers have for actually getting things built. This raised an interesting question for me: **how can the U.S. build important infrastructure more efficiently while still keeping the environmental and legal protections that serve an important purpose?** 
 
-
-RECORDING: - [Assignment 3: Audio Conversation RRR week 3](audio-conv-assignment-03.md)
+<img width="997" height="651" alt="image" src="https://github.com/user-attachments/assets/e7a12e23-45bf-404e-b4c6-59098442b8ff" />
+https://politicsandwar.fandom.com/wiki/Government_Type
 
 ##### Based on the readings of: 
 Brian Potter, “How NEPA Works,” Construction Physics.https://www.construction-physics.com/p/how-nepa-works
