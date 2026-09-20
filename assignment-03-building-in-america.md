@@ -11,8 +11,11 @@ As I learned more about this issue, I started to see that the problem is bigger 
 
 ##### Based on the readings of: 
 Brian Potter, “How NEPA Works,” Construction Physics.https://www.construction-physics.com/p/how-nepa-works
+
 Philip K. Howard, Saving Can-Do.
+
 Dan Wang, Breakneck.
+
 Doomberg, “Label Makers.” 
 
 #### Written synthesis/summary of the recording: 
