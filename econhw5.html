@@ -1,0 +1,117 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>100% Renewable for One Real Week — SHOW ME</title>
+<style>
+:root{--paper:#bfe3f2;--ink:#0b2d4d;--muted:#284d68;--green:#3d7655;--green2:#9fc28e;--red:#bd5b49;--gold:#d8b56a;--blue:#668ca0;--white:#d8eff8;--line:#7fb7d1}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:Arial,Helvetica,sans-serif}.frame{width:min(1180px,92vw);margin:auto}.museum{padding:18px 0;border-bottom:1px solid var(--line);font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase}.museum .frame{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}.hero{padding:70px 0 34px}.kicker{font-size:12px;font-weight:800;letter-spacing:.18em;text-transform:uppercase;color:var(--green)}h1,h2,.serif{font-family:Georgia,'Times New Roman',serif}h1{font-size:clamp(52px,8vw,102px);line-height:.87;letter-spacing:-.055em;margin:14px 0 25px;max-width:1050px}.sub{font-family:Georgia,serif;font-size:clamp(20px,2.3vw,31px);line-height:1.28;max-width:900px;color:#163d5c}.hero-note{max-width:780px;font-size:14px;color:var(--muted);margin-top:24px}.art{padding:18px 0 62px}.canvas{background:var(--white);border:1px solid var(--line);padding:clamp(18px,3vw,36px);box-shadow:0 12px 40px rgba(11,45,77,.10)}.caption-top{display:flex;justify-content:space-between;gap:20px;align-items:end;margin-bottom:18px}.caption-top h2{font-size:clamp(27px,4vw,46px);line-height:1;margin:0}.caption-top p{max-width:410px;color:var(--muted);font-size:14px;margin:0}.chart-wrap{position:relative}svg{display:block;width:100%;height:auto}.legend{display:flex;gap:18px;flex-wrap:wrap;margin-top:12px;font-size:13px;color:#234b68}.dot{display:inline-block;width:11px;height:11px;border-radius:50%;margin-right:6px}.takeaway{padding:65px 0;border-top:1px solid var(--line)}.takeaway h2{font-size:clamp(38px,5.5vw,68px);line-height:1.02;letter-spacing:-.035em;max-width:980px;margin:0 0 24px}.takeaway p{font-family:Georgia,serif;font-size:clamp(19px,2.2vw,27px);line-height:1.45;max-width:900px}.triptych{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:40px}.piece{border-top:3px solid var(--ink);padding-top:15px}.piece .big{font-family:Georgia,serif;font-size:43px}.piece p{font-family:Arial,sans-serif;font-size:14px;line-height:1.5;color:#234b68;margin:6px 0}.calc-section{padding:60px 0;border-top:1px solid var(--line)}.calc-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:50px;align-items:center}.calc-section h2{font-size:clamp(34px,4vw,54px);line-height:1;margin:0 0 18px}.calc-section p{font-size:16px;line-height:1.65;color:#234b68}.equation{font-family:Georgia,serif;font-size:clamp(17px,2.5vw,34px);margin:22px 0;white-space:nowrap;letter-spacing:-.02em}.chalk{background:var(--ink);color:var(--white);padding:30px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:15px;line-height:1.8}.chalk strong{color:#cfe5bf}.small{font-size:12px!important;color:#aeb8b0!important;line-height:1.45!important}.ending{padding:70px 0 80px;border-top:1px solid var(--line)}.ending blockquote{font-family:Georgia,serif;font-size:clamp(30px,5vw,62px);line-height:1.05;letter-spacing:-.025em;margin:0;max-width:1050px}.sources{margin-top:50px;font-size:12px;line-height:1.7;color:var(--muted);max-width:900px}.sources a{color:inherit}.tag{display:inline-block;border:1px solid var(--ink);padding:5px 9px;border-radius:20px;font-size:10px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin-bottom:15px}@media(max-width:760px){.triptych,.calc-grid{grid-template-columns:1fr}.caption-top{display:block}.caption-top p{margin-top:12px}.hero{padding-top:45px}}
+.line-key{display:inline-block;width:28px;height:0;border-top:4px solid;margin:0 7px 3px 0}.demand-key{border-color:#0b2d4d}.renewable-key{border-color:#176b9b;border-top-style:dashed}.swatch{display:inline-block;width:20px;height:13px;margin:0 7px -2px 0;border:1px solid #777}.surplus-key{background:#4caf50}.deficit-key{background:#e53935}
+</style></head><body>
+<header class="museum"><div class="frame"><span>ECON 238</span><span>Sophia Dmytruk</span><span>SHOW ME Exhibit</span></div></header>
+<main>
+<section class="hero"><div class="frame"><h1>100% Renewable<br>for One Real Week</h1><div class="sub">Suppose we build enough wind and solar to equal an entire week's electricity use. Does that mean we have enough electricity for every hour of that week?</div><p class="hero-note">A 168-hour thought experiment using a real grid week. The finished analysis will use NYISO hourly load and fuel-mix data; the shape below is an intentionally labeled visual model of the calculation.</p></div></section>
+
+<section class="art"><div class="frame"><div class="canvas"><div class="caption-top"><h2>One week. 168 hours.</h2></div>
+<div class="chart-wrap"><svg viewBox="0 0 1100 455" role="img" aria-label="Illustrative one-week electricity balance: demand is a solid dark line, scaled wind and solar is a dashed blue line, green areas are surplus and red areas are deficit.">
+<defs>
+</defs>
+<g stroke="#ded9cf" stroke-width="1"><line x1="65" y1="85" x2="1065" y2="85"/><line x1="65" y1="165" x2="1065" y2="165"/><line x1="65" y1="245" x2="1065" y2="245"/><line x1="65" y1="325" x2="1065" y2="325"/></g>
+<!-- mismatch areas are generated from the exact same sampled curves as the lines below,
+     so the fills cannot drift away from the curves -->
+<g id="mismatch-fills"></g>
+<!-- demand: solid; renewable supply: dashed -->
+<path id="demand-curve" d="M65 225 C100 240 130 220 165 205 S225 190 260 210 S320 225 355 205 S420 195 455 215 S515 220 550 200 S615 195 650 220 S715 215 750 200 S815 195 850 215 S915 225 950 210 S1020 215 1065 225" fill="none" stroke="#182019" stroke-width="6"/>
+<path id="renewable-curve" d="M65 249 C105 255 125 130 165 155 S225 275 260 240 S315 95 355 150 S415 295 455 230 S510 100 550 160 S610 290 650 235 S705 115 750 155 S810 280 850 220 S910 100 950 145 S1015 275 1065 245" fill="none" stroke="#176b9b" stroke-width="6" stroke-dasharray="13 10"/>
+<g font-family="Arial" font-size="14" fill="#687067"><text x="65" y="35">POWER</text><text x="68" y="375">MON</text><text x="215" y="375">TUE</text><text x="360" y="375">WED</text><text x="505" y="375">THU</text><text x="650" y="375">FRI</text><text x="795" y="375">SAT</text><text x="940" y="375">SUN</text></g>
+</svg></div>
+<div class="legend"><span><i class="line-key demand-key"></i>Demand</span><span><i class="line-key renewable-key"></i>Scaled wind + solar</span><span><i class="swatch surplus-key"></i>Surplus</span><span><i class="swatch deficit-key"></i>Deficit</span></div></div></div></section>
+
+
+
+<section class="calc-section"><div class="frame calc-grid"><div><h2>The entire exhibit begins with subtraction.</h2><div class="equation">Gap<sub>t</sub> = Wind + Solar − Demand<sub>t</sub></div><p>A positive gap is electricity available to store or curtail. A negative gap is electricity the system still needs. Repeat that calculation 168 times and the abstract phrase “100% renewable” becomes a physical balancing problem.</p></div><div class="chalk"><strong>SAMPLE CALCULATION — ILLUSTRATIVE</strong><br><br>Demand at 8 PM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 28,000 MW<br>Wind + solar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 19,500 MW<br>────────────────────────────<br>Hourly gap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= −8,500 MW<br><br>For one hour:<br>8,500 MW × 1 h = <strong>8.5 GWh short</strong><br><br><span class="small">This example shows the arithmetic only; these are not observed NYISO values.</span></div></div></section>
+
+<section class="ending"><div class="frame"><blockquote>“Enough renewable energy” and “enough electricity at every hour” are two different questions.</blockquote><div class="sources"><b>Data frame for the finished exhibit.</b> NYISO publishes archived Real-Time Fuel Mix and Real-Time Actual Load files, including July 2026. The final 168-hour line will replace the illustrative profile above with measured grid data and will state exactly which NYISO fuel categories are counted as renewable. Storage efficiency and any overbuild, transmission, or firm-generation assumptions will be shown beside the resulting figure.<br><br><b>Sources:</b> New York Independent System Operator (NYISO), Real-Time Fuel Mix archive and Real-Time Actual Load archive. Supporting storage assumptions may use NREL Annual Technology Baseline. Visual design inspired by the ECON 238 SHOW ME example exhibit.</div></div></section>
+</main><script>
+(function(){
+  const demand = document.getElementById('demand-curve');
+  const renewable = document.getElementById('renewable-curve');
+  const fills = document.getElementById('mismatch-fills');
+  if (!demand || !renewable || !fills) return;
+
+  // Sample each displayed SVG path densely, then interpolate y at a requested x.
+  // The fills are therefore derived from the exact same paths the visitor sees.
+  function samplePath(path, n=6000){
+    const L = path.getTotalLength();
+    const pts = [];
+    for(let i=0;i<=n;i++){
+      const p = path.getPointAtLength(L*i/n);
+      pts.push({x:p.x, y:p.y});
+    }
+    pts.sort((a,b)=>a.x-b.x);
+    return pts;
+  }
+  function yAt(pts,x){
+    let lo=0, hi=pts.length-1;
+    while(hi-lo>1){
+      const m=(lo+hi)>>1;
+      if(pts[m].x <= x) lo=m; else hi=m;
+    }
+    const a=pts[lo], b=pts[hi];
+    const dx=b.x-a.x;
+    if(Math.abs(dx)<1e-9) return (a.y+b.y)/2;
+    const t=(x-a.x)/dx;
+    return a.y+t*(b.y-a.y);
+  }
+
+  const D=samplePath(demand), R=samplePath(renewable);
+  const x0=65, x1=1065, step=1;
+
+  function point(x){
+    const d=yAt(D,x), r=yAt(R,x);
+    return {x,d,r,g:r-d};
+  }
+
+  // Draw one quadrilateral whose upper/lower edges are exactly the renewable
+  // and demand samples at the two x coordinates. No long polygon can drift.
+  function drawStrip(a,b){
+    if(b.x-a.x < 0.0001) return;
+    const mid=(a.x+b.x)/2;
+    const dm=yAt(D,mid), rm=yAt(R,mid);
+    const surplus = rm < dm; // smaller SVG y = higher power
+    const poly=document.createElementNS('http://www.w3.org/2000/svg','polygon');
+    poly.setAttribute('points',
+      `${a.x.toFixed(3)},${a.r.toFixed(3)} `+
+      `${b.x.toFixed(3)},${b.r.toFixed(3)} `+
+      `${b.x.toFixed(3)},${b.d.toFixed(3)} `+
+      `${a.x.toFixed(3)},${a.d.toFixed(3)}`
+    );
+    poly.setAttribute('fill', surplus ? '#43a047' : '#e53935');
+    poly.setAttribute('opacity','0.62');
+    poly.setAttribute('stroke','none');
+    fills.appendChild(poly);
+  }
+
+  for(let x=x0; x<x1; x+=step){
+    const a=point(x), b=point(Math.min(x+step,x1));
+
+    // If the sign changes inside this 1px interval, solve for the exact
+    // intersection by bisection, then color each side separately.
+    if(a.g===0 || b.g===0 || a.g*b.g>0){
+      drawStrip(a,b);
+    } else {
+      let lo=a.x, hi=b.x;
+      let glo=a.g;
+      for(let k=0;k<28;k++){
+        const m=(lo+hi)/2;
+        const pm=point(m);
+        if(glo*pm.g<=0){ hi=m; }
+        else { lo=m; glo=pm.g; }
+      }
+      const xc=(lo+hi)/2;
+      const c=point(xc);
+      // Force the crossing to one shared y so red and green meet perfectly.
+      const yc=(c.d+c.r)/2;
+      c.d=yc; c.r=yc; c.g=0;
+      drawStrip(a,c);
+      drawStrip(c,b);
+    }
+  }
+})();
+</script>
+</body></html>
