@@ -7,7 +7,8 @@ The county would solicit private operators, require modern air pollution control
 A YES vote authorizes the county to pursue the program, subject to permits and financing.
 
 
-## VOTE HERE: <img width="1024" height="1024" alt="url_qrcodecreator com_10_03_43" src="https://github.com/user-attachments/assets/97bb986c-36f6-4166-972c-78c48183d960" />
+## VOTE HERE:<img width="100" height="100" alt="Untitled (2)" src="https://github.com/user-attachments/assets/ee50d934-ed9d-42cb-b598-9aee5c76173a" />
+
 
 
 #### What's the deal?
