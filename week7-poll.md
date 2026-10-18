@@ -70,3 +70,16 @@ Proposed electricity revenue allocation
 
 
 
+
+
+
+
+EPA — Energy Recovery from Municipal Solid Waste: Technology, emissions controls, waste reduction, ash, and costs.
+
+U.S. Energy Information Administration — Waste-to-Energy: How much electricity waste combustion generates and how it compares with landfilling.
+
+Monroe County — Mill Seat Landfill: Existing landfill capacity, methane recovery, and local environmental monitoring.
+
+NYSDEC — Waste Management Permits: Existing permitting requirements for municipal waste combustion facilities.
+
+Monroe County — Solid Waste and Recycling: Existing waste infrastructure and the county's upcoming 2028–2037 waste management planning period.
