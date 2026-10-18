@@ -74,6 +74,8 @@ Proposed electricity revenue allocation
 
 
 
+Sources: 
+
 EPA — Energy Recovery from Municipal Solid Waste: Technology, emissions controls, waste reduction, ash, and costs.
 
 U.S. Energy Information Administration — Waste-to-Energy: How much electricity waste combustion generates and how it compares with landfilling.
