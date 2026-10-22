@@ -9,3 +9,4 @@ Environmental Economics, Fall 2026, University of Rochester
 - [Assignment 3: Building of America's Trust, Institutions, and Infrastructure (Week Three)](assignment-03-building-in-america.md)
 - [Assignment 4: Storm Damages, and Diet Juice (Week Four)](assignment-04-storm-damage.md)
       [Assignment4: WEBSITE](index.html)
+- [Assignment 8: The History of Plastic Recycling: How Did a Scientific Solution Become an Economic Problem?](assignment-08-substacklink.md)
