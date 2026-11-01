@@ -1,4 +1,8 @@
-Indigenous Land Acknowledgement, Land Conservation & Acknowledgements - what are the thoughts surrounding this? 
+## Indigenous Land Acknowledgement, Land Conservation & Acknowledgements - what are the thoughts surrounding this? 
+
+<img width="1055" height="1491" alt="image" src="https://github.com/user-attachments/assets/56444dfd-26cc-4ae8-9ca1-751520bb3e4f" />
+
 
 Our discussion focused on the relationship between land acknowledgments, Indigenous reparations, national park management, and environmental economics. We initially questioned whether land acknowledgments accomplish anything meaningful beyond recognizing historical injustices, especially when they do not result in changes to property rights or economic opportunities. We then debated whether returning national parks to Indigenous communities would be an effective form of restitution, considering the potential impacts on conservation, public access, economic benefits, and political opposition.
+
 A major point of discussion was the tradeoff between environmental preservation and accessibility. Increasing national park entrance fees could reduce overcrowding and negative externalities, such as pollution and waste, but could also disproportionately exclude lower-income families. We considered subsidized admission programs as a possible compromise. Finally, we discussed shared management between Indigenous communities and the federal government, recognizing that Indigenous perspectives should play a greater role in determining appropriate solutions. Ultimately, our conversation emphasized that there is no single solution and that meaningful restitution requires considering economic incentives, environmental protection, public accessibility, and the preferences of Indigenous communities themselves.
