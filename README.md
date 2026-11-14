@@ -11,4 +11,4 @@ Environmental Economics, Fall 2026, University of Rochester
       [Assignment4: WEBSITE](index.html)
 - [Assignment 8: The History of Plastic Recycling: How Did a Scientific Solution Become an Economic Problem?](assignment-08-substacklink.md)
 - [Assignment 9: Environmental Justice and Land Acknowledgements](assignment-09.md)
-- [Assignment 11: Incarceration Through Sustainable Workforce BatSh!t Crazy Idea](Econ 238 Week 11 Assignment.pdf)
+- [Assignment 11: Incarceration Through Sustainable Workforce BatSh!t Crazy Idea](ECON-238-Week-11-Assignment.pdf)
